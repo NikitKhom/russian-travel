@@ -1,0 +1,29 @@
+.intro {
+   padding-left: 16px;
+   padding-top: 64px;
+   padding-bottom: 64px;
+}
+
+@media (min-width: 768px) {
+    .intro {
+        padding-left: 24px;
+        padding-top: 88px;
+        padding-bottom: 88px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .intro {
+        width: 928px;
+        padding-top: 92px;
+        padding-bottom: 92px;
+        padding-left: 0;
+    }
+}
+
+@media (min-width: 1280px) {
+    .intro {
+        width: 984px;
+        padding-left: 0;
+    }
+}

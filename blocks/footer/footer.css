@@ -1,0 +1,18 @@
+.footer {
+    padding-top: 64px;
+    padding-left: 16px;
+}
+
+@media (min-width: 768px) {
+    .footer {
+        height: 130px;
+        padding-top: 88px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer {
+        padding-top: 92px;
+        height: 134px;
+    }
+}

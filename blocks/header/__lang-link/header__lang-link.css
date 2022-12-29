@@ -1,0 +1,14 @@
+.header__lang-link {
+    color: white;
+    text-decoration: none;
+    padding-left: 18px;
+    font-size: 18px;
+    margin: 0;
+}
+
+
+@media (min-width: 768px) {
+    .header__lang-link {
+        font-size: 24px;
+    }
+}
