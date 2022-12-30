@@ -1,3 +1,11 @@
 .footer__list-element {
     margin: 0 0 32px;
 }
+
+@media (min-width: 768px) {
+    .footer__list-element {
+        display: inline;
+        margin: 0;
+        margin-right: 18px;
+    }
+}

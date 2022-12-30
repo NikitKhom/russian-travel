@@ -3,4 +3,21 @@
     padding-top: 16px;
     padding-bottom: 24px;
     font-size: 14px;
+    line-height: 1;
+}
+
+@media (min-width: 768px) {
+    .footer__copyright {
+        line-height: 1.14;
+        padding: 0;
+        position: absolute;
+        right:24px;
+        bottom: 24px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer__copyright {
+        right: 48px;
+    }
 }
