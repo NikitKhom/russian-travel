@@ -1,0 +1,11 @@
+@media (min-width: 1024px) {
+    .intro__content {
+        width: 928px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .intro__content {
+        width: 984px;
+    }
+}

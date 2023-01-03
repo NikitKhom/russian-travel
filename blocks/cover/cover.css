@@ -1,5 +1,18 @@
 .cover {
     display: grid;
+    margin-top: 66px;
+}
+
+@media (min-width: 768px) {
+    .cover{
+        margin-top: 90px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .cover{
+        margin-top: 92px;
+    }
 }
 
 @media (min-width: 1280px) {
