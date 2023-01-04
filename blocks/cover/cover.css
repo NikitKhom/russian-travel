@@ -9,12 +9,6 @@
     }
 }
 
-@media (min-width: 1024px) {
-    .cover{
-        margin-top: 92px;
-    }
-}
-
 @media (min-width: 1280px) {
     .cover{
         padding-left: 48px;
